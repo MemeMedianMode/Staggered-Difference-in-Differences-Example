@@ -14,7 +14,7 @@
 *
 ********************************************************************************
 	
-	cd "~/Desktop/staggered_dd"
+	cd "/Users/mark/Dropbox/HGSE-PHD/research/staggered_dd_example/Staggered-Difference-in-Differences-Example"
 
 ********************************************************************************
 * Load the data from Chin (2023) and keep a subset
